@@ -31,7 +31,7 @@ organizations:
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
-  - icon: at-symbol
+  - icon: envelope
     url: 'mailto:chiara.zappala@uni-corvinus.hu'
     label: Contact me
   - icon: academicons/google-scholar
@@ -40,6 +40,8 @@ profiles:
     url: https://github.com/chiarazappala  
   - icon: brands/x
     url: https://x.com/zappala_chiara
+  - icon: brands/bluesky
+    url: https://bsky.app/profile/chiarazappala.bsky.social
   - icon: brands/linkedin
     url: https://www.linkedin.com/in/chiara-zappal%C3%A0-b95a63120/
 
@@ -93,8 +95,7 @@ work:
       - Network science
   - position: Visiting Ph.D. student
     company_name: Copenhagen Center for Social Data Science (SODAS), University of Copenhagen
-    company_url: ''
-    company_logo: ''
+    company_url: https://sodas.ku.dk/
     date_start: 2023-02-01
     date_end: 2023-03-01
     summary: |
@@ -105,7 +106,7 @@ work:
       - Sports analytics
   - position: Visiting Ph.D. student
     company_name: NEtwoRks, Data and Society (NERDS), IT University of Copenhagen
-    company_url: ''
+    company_url: https://nerds.itu.dk/
     date_start: 2022-01-01
     date_end: 2022-07-01
     summary: |
@@ -114,47 +115,13 @@ work:
       - Sports analytics
       - Network science
 
-# Skills
-# Add your own SVG icons to `assets/media/icons/`
-skills:
-  - name: Technical Skills
-    items:
-      - name: Python
-        description: ''
-        percent: 80
-        icon: code-bracket
-      - name: Data Science
-        description: ''
-        percent: 100
-        icon: chart-bar
-      - name: SQL
-        description: ''
-        percent: 40
-        icon: circle-stack
-  - name: Hobbies
-    color: '#eeac02'
-    color_border: '#f0bf23'
-    items:
-      - name: Hiking
-        description: ''
-        percent: 60
-        icon: person-simple-walk
-      - name: Cats
-        description: ''
-        percent: 100
-        icon: cat
-      - name: Photography
-        description: ''
-        percent: 80
-        icon: camera
-
 languages:
-  - name: English
-    percent: 100
   - name: Italian
     percent: 100
+  - name: English
+    percent: 90
   - name: Hungarian
-    percent: 15
+    percent: 10
 
 # Awards.
 #   Add/remove as many awards below as you like.
