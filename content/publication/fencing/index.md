@@ -7,7 +7,7 @@ authors:
 - Alessio Emanuele Biondo
 - Pawel Sobkowicz
 date: "2022-05-05T00:00:00Z"
-doi: ''
+doi: 'https://doi.org/10.1371/journal.pone.0267541'
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2022-05-05T00:00:00Z"
@@ -31,8 +31,7 @@ tags:
 featured: false
 
 # links:
-# - name: ""
-url: "doi.org/10.1371/journal.pone.0267541"
+# - name: "" url: ""
 url_pdf: "https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0267541&type=printable"
 url_code: ''
 url_dataset: "https://github.com/chiarazappala/fencing"

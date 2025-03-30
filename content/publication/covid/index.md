@@ -11,7 +11,7 @@ authors:
 - Giovanni Russo
 - admin
 date: "2021-03-05T00:00:00Z"
-doi: ''
+doi: 'https://doi.org/10.1038/s41598-021-82310-4'
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2021-03-05T00:00:00Z"
@@ -33,8 +33,7 @@ tags:
 featured: false
 
 # links:
-# - name: ""
-url: "doi.org/10.1038/s41598-021-82310-4"
+# - name: "" url: ""
 url_pdf: 'https://www.nature.com/articles/s41598-021-82310-4.pdf'
 url_code: ''
 url_dataset: ''
