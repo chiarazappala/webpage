@@ -102,6 +102,37 @@ sections:
       # Reduce spacing
       spacing:
         padding: [0, 0, 0, 0]
+  - block: contact
+    id: contact
+    content:
+      title: Contact
+      subtitle:
+      text: ''
+      # Contact (add or remove contact options as necessary)
+      email: chiara.zappala@uni-corvinus.hu
+      address:
+        street: Közraktár utca 4-6
+        city: Budapest
+        postcode: '1093'
+        country: Hungary
+        country_code: HU
+      directions: Corvinus University, C building, 7th floor
+      # Choose a map provider in `params.yaml` to show a map from these coordinates
+      coordinates:
+        latitude: '47.4850363'
+        longitude: '19.0610642'  
+      # Automatically link email and phone or display as text?
+      autolink: false
+      # Email form provider
+      #form:
+      #  provider: netlify
+      #  formspree:
+      #    id:
+      #  netlify:
+      #    # Enable CAPTCHA challenge to reduce spam?
+      #    captcha: false
+    design:
+      columns: '2'
   - block: cta-card
     demo: true # Only display this section in the Hugo Blox Builder demo site
     content:
