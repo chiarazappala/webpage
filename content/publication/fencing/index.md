@@ -1,20 +1,16 @@
 ---
-title: "A novel methodology for epidemic risk assessment of COVID-19 outbreak"
+title: "On the role of chance in fencing tournaments: An agent-based approach"
 authors:
-- Alessandro Pluchino
-- Alessio Emanuele Biondo
-- Nadia Giuffrida
-- Giuseppe Inturri
-- Vito Latora
-- Rosario Le Moli
-- Andrea Rapisarda
-- Giovanni Russo
 - admin
-date: "2021-03-05T00:00:00Z"
-doi: https://doi.org/10.1038/s41598-021-82310-4
+- Alessandro Pluchino
+- Andrea Rapisarda
+- Alessio Emanuele Biondo
+- Pawel Sobkowicz
+date: "2022-05-05T00:00:00Z"
+doi: ''
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2021-03-05T00:00:00Z"
+publishDate: "2022-05-05T00:00:00Z"
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
@@ -22,22 +18,24 @@ publishDate: "2021-03-05T00:00:00Z"
 #publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Scientific Reports 11, 5304 (2021)"
+publication: "PLoS ONE 17, 5, e0267541 (2022)"
 
-#abstract: We propose a novel data-driven framework for assessing the a-priori epidemic risk of a geographical area and for identifying high-risk areas within a country. Our risk index is evaluated as a function of three different components: the hazard of the disease, the exposure of the area and the vulnerability of its inhabitants. As an application, we discuss the case of COVID-19 outbreak in Italy. We characterize each of the twenty Italian regions by using available historical data on air pollution, human mobility, winter temperature, housing concentration, health care density, population size and age. We find that the epidemic risk is higher in some of the Northern regions with respect to Central and Southern Italy. The corresponding risk index shows correlations with the available official data on the number of infected individuals, patients in intensive care and deceased patients, and can help explaining why regions such as Lombardia, Emilia-Romagna, Piemonte and Veneto have suffered much more than the rest of the country. Although the COVID-19 outbreak started in both North (Lombardia) and Central Italy (Lazio) almost at the same time, when the first cases were officially certified at the beginning of 2020, the disease has spread faster and with heavier consequences in regions with higher epidemic risk. Our framework can be extended and tested on other epidemic data, such as those on seasonal flu, and applied to other countries. We also present a policy model connected with our methodology, which might help policy-makers to take informed decisions.
+abstract: It is a widespread belief that success is mainly due to innate qualities rather than external forces. This is particularly true in sports competitions, where individual talent is usually considered the main, if not the only, ingredient to reach success. In this study, we explore the limits of this belief by quantifying the relative weight of talent and chance in fencing, a combat sport involving a weapon, with the help of both real data and agent-based simulations. Fencing competitions are structured as direct elimination tournaments, where randomness is explicitly present in some rules. We focused on épée, which is one of three disciplines. We collected data on international competition results and annual rankings, in the range 2008–2020, for male and female fencers under 20 years old (Junior category). Then, we built the model calibrated on our dataset and parametrized by just one free variable a, describing the importance of talent—and, consequently, of chance—in competitions (a = 1 indicates the ideal scenario where only talent matters, a = 0 the complete random one). Our agent-based approach can reproduce the main stylized facts observed in data, at the level of both single tournaments and the entire careers of a given community of épée fencers. We find that simulations approximate very well the data for both Junior Men and Women when talent weights slightly less than chance, i.e. when a is around 0.45. We conclude that the role of chance in fencing is unusually high and it probably represents an extreme case for individual sports. Our findings shed light on the importance of external factors in both athletes’ results in tournaments and throughout their career, making even more unfair the “winner-takes-all” disparities that often occur between the winner and the other classified competitors.
 
 tags:
-- COVID-19
-- Epidemiology
-- Risk assessment
+- Fencing
+- Careers
+- Sports
+- Agent-based models
+- Modeling & simulation
 featured: false
 
 # links:
 # - name: ""
-#   url: ""
-url_pdf: https://www.nature.com/articles/s41598-021-82310-4.pdf
+url: "https://doi.org/10.1371/journal.pone.0267541"
+url_pdf: "https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0267541&type=printable"
 url_code: ''
-url_dataset: ''
+url_dataset: "https://github.com/chiarazappala/fencing"
 url_poster: ''
 url_project: ''
 url_slides: ''
@@ -47,7 +45,7 @@ url_video: ''
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/jdD8gXaTZsc)'
+  caption: ''
   focal_point: ""
   preview_only: false
 
@@ -56,7 +54,7 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
-projects: []
+projects: [sports]
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
