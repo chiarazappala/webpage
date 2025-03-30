@@ -11,7 +11,6 @@ authors:
 - Giovanni Russo
 - admin
 date: "2021-03-05T00:00:00Z"
-doi: 'https://doi.org/10.1038/s41598-021-82310-4'
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2021-03-05T00:00:00Z"
@@ -40,13 +39,13 @@ url_dataset: ''
 url_poster: ''
 url_project: ''
 url_slides: ''
-url_source: ''
+url_source: 'https://doi.org/10.1038/s41598-021-82310-4'
 url_video: ''
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: 'Click to read the article(https://doi.org/10.1038/s41598-021-82310-4)'
+  caption: '[Click to read the article](https://doi.org/10.1038/s41598-021-82310-4)'
   focal_point: ""
   preview_only: false
 

@@ -7,7 +7,6 @@ authors:
 - Alessio Emanuele Biondo
 - Pawel Sobkowicz
 date: "2022-05-05T00:00:00Z"
-doi: 'https://doi.org/10.1371/journal.pone.0267541'
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2022-05-05T00:00:00Z"
@@ -35,13 +34,13 @@ url_dataset: "https://github.com/chiarazappala/fencing"
 url_poster: ''
 url_project: ''
 url_slides: ''
-url_source: ''
+url_source: 'https://doi.org/10.1371/journal.pone.0267541'
 url_video: ''
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: 'Click to read the article(https://doi.org/10.1371/journal.pone.0267541)'
+  caption: '[Click to read the article](https://doi.org/10.1371/journal.pone.0267541)'
   focal_point: ""
   preview_only: false
 
