@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Chiara Zappalà, Ph.D.
+title: Chiara Zappalà
 
 # Name pronunciation (optional)
 name_pronunciation: ''
