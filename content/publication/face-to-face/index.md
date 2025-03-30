@@ -36,7 +36,7 @@ url_video: ''
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: 'Image credit: [**Unsplash**](https://arxiv.org/abs/2406.05026)'
+  caption: '[Click to read the article](https://arxiv.org/abs/2406.05026)'
   focal_point: ""
   preview_only: false
 
