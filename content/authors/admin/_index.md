@@ -54,35 +54,65 @@ education:
   - area: PhD in Complex Systems for Physical, Socio-economic and Life Sciences
     institution: University of Catania
     year: 2023
+    date_start: 2019-11-01
+    date_end: 2023-05-01
   - area: MSc in Physics of Complex Systems
     institution: University of Turin
-    year: 2019
+    year: 2018
+    date_start: 2016-09-01
+    date_end: 2018-04-01
   - area: BSc in Physics
     institution: University of Catania
     year: 2016
+    date_start: 2012-09-01
+    date_end: 2016-07-01
 
 work:
   - position: Postdoctoral research fellow
     company_name: Center for Collective Learning, Corvinus Institute for Advanced Studies, Corvinus University of Budapest
-    company_url: ''
-    company_logo: ''
-    date_start: 2023-09-01
+    company_url: https://centerforcollectivelearning.org/
+    date_start: 2023-09-04
     date_end: ''
     summary: |2-
       Research topics:
+      - Success and inequalities 
+      - Diffusion of knowledge 
+      - Geography of innovation,
       - Science of science
-      - Geography of innovation
+      - Network science
   - position: Visiting researcher
     company_name: Department of Network and Data Science, Central European University
-    company_url: ''
-    company_logo: ''
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+    company_url: https://networkdatascience.ceu.edu/
+    date_start: 2023-05-01
+    date_end: 2023-07-01
     summary: |
       Research topics:
-      - Science of science
-      - Face-to-face interactions
-      - Complex networks
+      - Diffusion of knowledge, 
+      - Gender inequality in academia
+      - Agent-based modeling,
+      - Network science
+  - position: Visiting Ph.D. student
+    company_name: Copenhagen Center for Social Data Science (SODAS), University of Copenhagen
+    company_url: ''
+    company_logo: ''
+    date_start: 2023-02-01
+    date_end: 2023-03-01
+    summary: |
+      Research topics:
+      - Science of science 
+      - Network science
+      - Science of success
+      - Sports analytics
+  - position: Visiting Ph.D. student
+    company_name: NEtwoRks, Data and Society (NERDS), IT University of Copenhagen
+    company_url: ''
+    date_start: 2022-01-01
+    date_end: 2022-07-01
+    summary: |
+      Research topics:
+      - Science of success
+      - Sports analytics
+      - Network science
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
