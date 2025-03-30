@@ -34,7 +34,7 @@ featured: false
 
 # links:
 # - name: ""
-url: "https://doi.org/10.1038/s41598-021-82310-4"
+url: "doi.org/10.1038/s41598-021-82310-4"
 url_pdf: 'https://www.nature.com/articles/s41598-021-82310-4.pdf'
 url_code: ''
 url_dataset: ''

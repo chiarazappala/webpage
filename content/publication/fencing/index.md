@@ -32,7 +32,7 @@ featured: false
 
 # links:
 # - name: ""
-url: "https://doi.org/10.1371/journal.pone.0267541"
+url: "doi.org/10.1371/journal.pone.0267541"
 url_pdf: "https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0267541&type=printable"
 url_code: ''
 url_dataset: "https://github.com/chiarazappala/fencing"
