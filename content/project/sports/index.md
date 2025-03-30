@@ -1,13 +1,14 @@
 ---
-title: PyTorch
-date: 2023-10-26
-external_link: https://github.com/pytorch/pytorch
+title: Complexity in sports
+date: 2019-09-01
 tags:
-  - Hugo
-  - Wowchemy
-  - Markdown
+  - Sports
+  - Talent
+  - Luck
+  - Fencing
+  - Tennis
 ---
 
-PyTorch is a Python package that provides tensor computation (like NumPy) with strong GPU acceleration.
+ADD DESCRIPTION OF THE PROJECT
 
 <!--more-->
