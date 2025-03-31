@@ -43,7 +43,7 @@ profiles:
   - icon: brands/bluesky
     url: https://bsky.app/profile/chiarazappala.bsky.social
   - icon: brands/linkedin
-    url: https://www.linkedin.com/in/chiara-zappal%C3%A0-b95a63120/
+    url: https://linkedin.com/in/chiarazappala27
 
 interests:
   - Inequality
