@@ -12,11 +12,10 @@ authors:
   - admin
 
 tags:
-  - Talk
-  - Inequality
-  - Complex networks
-  - Budapest
-  - Hungary
+  - Computational Social Science
+  - Conference on Complex Systems
+  - Siena
+  - Italy
 ---
 
 Next September, the 13th satellite on Computational Social Science will take place at the Conference on Complex Systems, in Siena. This satellite (one of the oldest series of CCS, active since 2013) addresses social phenomena emerging over multiple scales, ranging from the interactions of individuals to the emergence of self-organized global movements within the realm of computational social science. This year, I am glad to be part of the organizing comitee!
