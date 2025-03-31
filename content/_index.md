@@ -30,16 +30,6 @@ sections:
           size: cover
           position: center
           parallax: false
-  - block: markdown
-    content:
-      title: '📚 My Research'
-      subtitle: ''
-      text: |-
-        Write some text here to explain your research, or we can remove this block.
-        
-        Contact me at chiara.zappala@uni-corvinus.hu
-    design:
-      columns: '1'
   - block: collection
     id: papers
     content:
