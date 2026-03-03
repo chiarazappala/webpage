@@ -24,15 +24,15 @@ role: Postdoctoral research fellow
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: Center for Collective Learning
-    url: https://centerforcollectivelearning.org/
-  - name: Corvinus University of Budapest
-    url: https://www.uni-corvinus.hu/?lang=en
+  - name: Copenhagen Center for Social Data Science (SODAS)
+    url: https://sodas.ku.dk/
+  - name: University of Copenhagen
+    url: https://www.ku.dk/en
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: envelope
-    url: 'mailto:chiara.zappala@uni-corvinus.hu'
+    url: 'mailto:chiara.zappala@phd.unict.it'
     label: Contact me
   - icon: academicons/google-scholar
     url: https://scholar.google.com/citations?user=PqXr7coAAAAJ
@@ -71,6 +71,17 @@ education:
 
 work:
   - position: Postdoctoral research fellow
+    company_name: Copenhagen Center for Social Data Science (SODAS), University of Copenhagen
+    company_url: https://sodas.ku.dk/
+    date_start: 2026-03-01
+    date_end: ''
+    summary: |2-
+      Research topics:
+      - Success and inequalities 
+      - Science of science
+      - Mobility
+      - Network science
+  - position: Postdoctoral research fellow
     company_name: Center for Collective Learning, Corvinus Institute for Advanced Studies, Corvinus University of Budapest
     company_url: https://centerforcollectivelearning.org/
     date_start: 2023-09-04
@@ -79,7 +90,7 @@ work:
       Research topics:
       - Success and inequalities 
       - Diffusion of knowledge 
-      - Geography of innovation,
+      - Geography of innovation
       - Science of science
       - Network science
   - position: Visiting researcher
@@ -89,9 +100,9 @@ work:
     date_end: 2023-07-01
     summary: |
       Research topics:
-      - Diffusion of knowledge, 
+      - Diffusion of knowledge 
       - Gender inequality in academia
-      - Agent-based modeling,
+      - Agent-based modeling
       - Network science
   - position: Visiting Ph.D. student
     company_name: Copenhagen Center for Social Data Science (SODAS), University of Copenhagen
@@ -122,6 +133,8 @@ languages:
     percent: 90
   - name: Hungarian
     percent: 10
+  - name: Danish
+    percent: 5
 
 # Awards.
 #   Add/remove as many awards below as you like.
@@ -138,4 +151,4 @@ languages:
 
 ## About Me
 
-I am a Postdoctoral Fellow at the Center for Collective Learning at the Corvinus University of Budapest. My reserach focuses on inequality and success in complex social systems, from sports to academic publishing and software development. 
+I am a Postdoctoral Fellow at the Copenhagen Center for Social Data Science. My research focuses on inequality and success in complex social systems, from sports to academic publishing, with a particular interest in gender disparities. 
