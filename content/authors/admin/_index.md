@@ -81,11 +81,23 @@ work:
       - Science of science
       - Mobility
       - Network science
+  - position: Research assistant
+    company_name: Section for Cognitive Systems, Department of Applied Mathematics and Computer Science, Technical University of Denmark
+    company_url: https://www.compute.dtu.dk/sections/cogsys
+    date_start: 2025-10-01
+    date_end: 2026-02-28
+    summary: |2-
+      Research topics:
+      - Urban mobility
+      - Data analysis
+      - Research & Development
+      - EU project
+      - Network science
   - position: Postdoctoral research fellow
     company_name: Center for Collective Learning, Corvinus Institute for Advanced Studies, Corvinus University of Budapest
     company_url: https://centerforcollectivelearning.org/
     date_start: 2023-09-04
-    date_end: ''
+    date_end: 2025-09-30
     summary: |2-
       Research topics:
       - Success and inequalities 
@@ -151,4 +163,5 @@ languages:
 
 ## About Me
 
-I am a Postdoctoral Fellow at the Copenhagen Center for Social Data Science. My research focuses on inequality and success in complex social systems, from sports to academic publishing, with a particular interest in gender disparities. 
+I am a Postdoctoral Fellow at the Copenhagen Center for Social Data Science (SODAS), where I study success and inequalities within complex social systems. By analyzing data from domains like professional sports and academic publishing, I work to uncover why some people thrive while others face systemic barriers, with a particular focus on the role of gender.
+When I am not at SODAS, you can usually find me strolling through the parks in Copenhagen with my dog! I am also a huge sports fan, actively following Italian football, fencing, and tennis.
