@@ -11,7 +11,7 @@ location: Online
 #  postcode: '94305'
 #  country: United States
 
-summary: On May 2, I will defend my PhD thesis. 
+summary: On May 2, 2023, I successfully defended my PhD thesis. 
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
